@@ -14,4 +14,5 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-git clone https://github.com/sirpdboy/sirpdboy-package package/sirpdboy-package
+#git clone https://github.com/sirpdboy/sirpdboy-package package/sirpdboy-package
+git clone https://github.com/kenzok8/openwrt-packages.git
