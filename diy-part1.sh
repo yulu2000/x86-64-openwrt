@@ -14,4 +14,4 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-echo 'src-git sirpdboy-package https://github.com/sirpdboy/sirpdboy-package' >> feeds.conf.default
+git clone https://github.com/sirpdboy/sirpdboy-package package/sirpdboy-package
